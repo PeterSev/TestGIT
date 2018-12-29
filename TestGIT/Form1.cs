@@ -15,6 +15,7 @@ namespace TestGIT
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("Hello world");
         }
     }
 }
